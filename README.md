@@ -8,7 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Челябинск
 *   ✉️  You can contact me at [sorata05@gmail.com](mailto:sorata05@gmail.com)
-*  ![telegram_button_icon_151837 (1)](https://github.com/user-attachments/assets/6edb2d59-9f71-4b5b-8010-e1768ac6087a)
+*  ![telegram_icon_130816](https://github.com/user-attachments/assets/bb2a9cfa-b5b1-43e1-85d3-b9e7f6b18948)
+
 
 
 ### Skills 
