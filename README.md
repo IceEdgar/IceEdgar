@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Инженер+по+тестированию" alt="Typing SVG" /></a>
-
-Инженер по тестированию
 -----------------------
 
 Полтора года обучения в школе Geekbrains, курсы в Stepik, а так же онлайн уроке с Youtube
